@@ -56,4 +56,4 @@ sum_square = square_length * square_width
 
 print(f"Можно отрезать: {sum_square} квадратов")
 
-print()
+print()#fhhbjbh
